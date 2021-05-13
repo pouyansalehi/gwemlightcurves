@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
     "jupyter.jupyterServerType": "local",
     "python.pythonPath": "/home/pouyan/anaconda3/bin/python"
+=======
+    "python.pythonPath": "/home/pouyan/anaconda3/envs/gwem/bin/python",
+    "jupyter.jupyterServerType": "local"
+>>>>>>> 24e2c6d553502996edd4e02d55e5389a8b5efcd4
 }
